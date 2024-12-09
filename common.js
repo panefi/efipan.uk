@@ -10,6 +10,9 @@ function loadCommonComponents() {
                     <i class="fab fa-twitter-square"></i>
                 </a>
             </div>
+            <div class="footer-note">
+                <p>&copy; 2024 Efstathia Panagopoulou. All rights reserved.</p>
+            </div>
         `;
     });
 }
