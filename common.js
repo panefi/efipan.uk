@@ -11,7 +11,7 @@ function loadCommonComponents() {
                 </a>
             </div>
             <div class="footer-note">
-                <p>&copy; 2024 Efstathia Panagopoulou. All rights reserved.</p>
+                <p>&copy; 2025 Efstathia Panagopoulou. All rights reserved.</p>
             </div>
         `;
     });
